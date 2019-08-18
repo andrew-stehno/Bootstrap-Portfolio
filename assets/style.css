@@ -1,0 +1,18 @@
+h1 {
+    margin-left: 50px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    margin-top: 16px;
+    margin-left: 100px;
+}
+
+li {
+    display: inline;
+    list-style: none;
+    padding: 20px;
+}
