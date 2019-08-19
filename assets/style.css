@@ -3,7 +3,7 @@ body {
 }
 
 .card-header {
-    margin-left: 190px;
+    margin-left: 197px;
     text-align: center;
     color: #ffffff;
     background-color: #4aaaa5;
@@ -18,7 +18,7 @@ body {
 }
 
 ul {
-    margin-left: 480px;
+    margin-left: 490px;
 }
 
 li {
@@ -45,7 +45,7 @@ nav {
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 50px;
+    height: 40px;
     background-color: #666666;
     border-top: #4aaaa5 2px solid;
 }
