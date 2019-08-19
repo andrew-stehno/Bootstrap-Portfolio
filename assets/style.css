@@ -3,7 +3,7 @@ body {
 }
 
 .card-header {
-    margin-left: 197px;
+    margin-left: 13%;
     text-align: center;
     color: #ffffff;
     background-color: #4aaaa5;
@@ -18,7 +18,7 @@ body {
 }
 
 ul {
-    margin-left: 490px;
+    margin-left: 49%;
 }
 
 li {
@@ -50,3 +50,11 @@ nav {
     border-top: #4aaaa5 2px solid;
 }
  
+.btn {
+    background-color: #4aaaa5;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #cccccc;
+}
