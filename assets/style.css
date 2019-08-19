@@ -3,7 +3,7 @@ body {
 }
 
 .card-header {
-    margin-left: 13%;
+    margin-left: 12.25%;
     text-align: center;
     color: #ffffff;
     background-color: #4aaaa5;
@@ -58,3 +58,4 @@ nav {
 .btn:hover {
     background-color: #cccccc;
 }
+
