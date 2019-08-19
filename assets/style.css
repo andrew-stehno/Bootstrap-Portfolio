@@ -1,18 +1,39 @@
+body {
+    background-image: url("images/white-waves.png")
+}
+
 h1 {
-    margin-left: 50px;
-    background-color: #4aaaa5;
-    color: #ffffff;
+    margin-left: 198px;
     text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding: 10px;
+}
+
+h2 {
+    color: #4aaaa5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #cccccc;
 }
 
 ul {
-    display: inline-block;
-    margin-top: 16px;
-    margin-left: 100px;
+    margin-left: 480px;
 }
 
 li {
-    display: inline;
-    list-style: none;
     padding: 20px;
 }
+
+nav {
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 30px;
+}
+
+.new {
+    border: 2px solid #cccccc;
+    background-color: #ffffff;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
