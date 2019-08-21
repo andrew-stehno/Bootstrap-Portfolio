@@ -49,11 +49,11 @@ nav {
 .btn:hover {
     background-color: #cccccc;
 }
-
+/*
 .col_rel {
     position: relative;
 }
-
+*/
 #box-1, #box-2,
 #box-3, #box-4,
 #box-5 {
