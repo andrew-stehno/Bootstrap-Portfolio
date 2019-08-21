@@ -3,7 +3,6 @@ body {
 }
 
 .card-header {
-    margin-left: 12.25%;
     text-align: center;
     color: #ffffff;
     background-color: #4aaaa5;
@@ -15,14 +14,6 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid #cccccc;
-}
-
-ul {
-    margin-left: 49%;
-}
-
-li {
-    padding: 20px;
 }
 
 nav {
@@ -59,3 +50,31 @@ nav {
     background-color: #cccccc;
 }
 
+.col_rel {
+    position: relative;
+}
+
+#box-1, #box-2,
+#box-3, #box-4,
+#box-5 {
+    width: 200px;
+    height: 30px;
+    background-color: #4cccc5;
+    text-align: center;
+    opacity: 0.5;
+    color: black;
+    font-weight: bold;
+    z-index: 2;
+    position: absolute;
+}
+
+#image-1, #image-2,
+#image-3, #image-4,
+#image-5 {
+    max-width: 200px;
+    z-index: 1;
+}
+
+#box-1, #box-2 {
+    top: 58%;
+}
