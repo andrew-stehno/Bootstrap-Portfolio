@@ -62,3 +62,6 @@ nav {
     top: 58%;
 }
 
+.img-fluid {
+    border: 1px solid black;
+}
